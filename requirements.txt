@@ -1,0 +1,4 @@
+requests2==2.16.0 
+pandas==1.5.2
+beautifulsoup4==4.11.1 
+openpyxl==3.0.10 

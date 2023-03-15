@@ -1,0 +1,3 @@
+create --> python3 -m venv env
+activate --> source env/bin/activate
+desativar --> deactivate
